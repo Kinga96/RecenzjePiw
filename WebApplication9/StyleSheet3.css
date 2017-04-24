@@ -1,0 +1,59 @@
+﻿body {
+}
+#zawartosc{
+    color: khaki;
+    font-family: Calibri;
+    font-size:large;
+
+    margin-left:50px;
+    margin-right:800px;
+    width: 512px;
+}
+
+.v_naglowek{
+      color: khaki;
+    font-family: Calibri;
+    font-size:large;
+    
+    margin-left:50px;
+}
+
+.button{
+    border-style:solid;
+    border-color:khaki;
+    border-width:3px;
+    background-color:black;
+    font-size:medium;
+    font-family: Calibri;
+    font-weight:bold;
+    color:khaki;
+}
+ol {
+  list-style-type:none;
+  padding:0;
+  margin:0;
+  font-size:18px;
+  height:2em;
+  line-height:2em;
+  text-align:center;
+ font-family: Calibri;
+}
+
+ol > li {
+  float:right;
+
+  width:200px;
+}
+
+ol a {
+  display:block;
+  color: khaki;
+  text-decoration: none;
+  font-weight: bold;
+  padding:0 5px;
+}
+
+ol > li > a:hover {
+  color: Window;
+}
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="ROOT"  description="">
+    <siteMapNode url="ciekawostki.aspx" title="Ciekawostki"  description="" />
+    <siteMapNode url="top.aspx" title="TOP 5"  description="" >
+      <siteMapNode url="pierwsze.aspx" title="Ad. 1"  description="" />
+      <siteMapNode url="drugie.aspx" title="Ad. 2"  description="" />
+      <siteMapNode url="trzecie.aspx" title="Ad. 3"  description="" />
+      <siteMapNode url="czwarte.aspx" title="Ad. 4"  description="" />
+      <siteMapNode url="piate.aspx" title="Ad. 5"  description="" />
+    </siteMapNode>
+
+    <siteMapNode url="pozostale.aspx" title="Pozostałe"  description="" >
+      <siteMapNode url="szoste.aspx" title="Ad. 6"  description="" />
+      <siteMapNode url="siodme.aspx" title="Ad. 7"  description="" />
+      <siteMapNode url="osme.aspx" title="Ad. 8"  description="" />
+      <siteMapNode url="dziewiate.aspx" title="Ad. 9"  description="" />
+      <siteMapNode url="dziesiate.aspx" title="Ad. 10"  description="" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

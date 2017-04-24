@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!--Created: 2016-04-03 18:30:31-->
+<Piwa>
+   <PIWO ID="1">
+      <Nazwa>Krasna jędza</Nazwa>
+      <Producent>Gloger</Producent>
+      <Cena>7,49zł</Cena>
+     <Wystepowanie>
+       <verse xml:space="preserve">
+         <Sklep>sklepgloger.pl,</Sklep>
+         <Sklep>Skorpion(sklep monopolowy - Białystok)</Sklep>
+            <signature xml:space="default"></signature>
+     </verse>
+     </Wystepowanie>
+     <Recenzja>
+       Kolor ciemny rubin lub jak kto woli ciemna wiśnia, przejrzyste bez zmętnień, piana kremowa; aromat: słodowy z majaczącym w oddali karmelem i ziołami, wyczuwalna minimalna paloność; smak: palone słody, kwaśna skórka od chleba i delikatny karmel, kwaśne, wytrawne i mało słodkie; goryczka - średnio intensywna orzechowa; alkohol - niewyczuwalny dobrze ułożony (lecz UWAGA ! mocno i szybko uderza do głowy); wysycenie - optymalne; opakowanie: ładny czarny kapsel z firmowym logo, standardowa butelka i metalizowana bardzo estetyczna etykieta. Reasumując ponadprzeciętne piwo o pełnym i treściwym smaku.
+     </Recenzja>
+   </PIWO>
+   <PIWO ID="2">
+     <Nazwa>Bykowe</Nazwa>
+     <Producent>Gloger</Producent>
+     <Cena>5,95zł</Cena>
+     <Wystepowanie>
+       <verse xml:space="preserve">
+         <Sklep>sklepgloger.pl,</Sklep>
+         <Sklep>Skorpion(sklep monopolowy - Białystok)</Sklep>
+            <signature xml:space="default"></signature>
+     </verse>
+     </Wystepowanie>
+     <Recenzja>
+       Nagazowanie średnie w stronę wysokiego, przyjemnie musujące i podkreślające ogólną lekkość trunku. Całość nawet trochę idzie w wytrawną stronę mocy, co w tym stylu jak najbardziej mi odpowiada. Początek nie jest zbyt wyrazisty, taka czysta słodowość, trochę zboża i akcentów zielonych, ale generalnie Byczek chce być połknięty. Wówczas zyskuje charakterek i odzywa się całkiem solidna chmielowa goryczka, która na pewno odróżnia go od wyrobów koncernowych. Troszeczkę zalega, ale dla mnie w przyjemny sposób. Finisz wytrawny, ziołowy, może nieco metaliczny (od chmielu). Pijalność pilsowa, czyli trudno się powstrzymać.
+       To jest proste i orzeźwiające piwo, którym chce się aż przepłukać usta. Ma swój charakterek dzięki rzemieślniczej ręce. Dobra robota, co tu dużo gadać.
+     </Recenzja>
+   </PIWO>
+   <PIWO ID="3">
+     <Nazwa>Złoty Bażant</Nazwa>
+     <Producent>Heineken</Producent>
+     <Cena>5,99zł</Cena>
+     <Wystepowanie>
+       <verse xml:space="preserve">
+         <Sklep>Tesco,</Sklep>
+         <Sklep>większość sklepów monopolowych</Sklep>
+            <signature xml:space="default"></signature>
+     </verse>
+     </Wystepowanie>
+     <Recenzja>
+       W zapachu mamy nuty słodowe. Chmielowych aromatów tutaj nie uświadczymy, całość jest co najwyżej przeciętna. Jeden plus chyba wyłącznie za brak jakiś wad, które by się ujawniały w trakcie.
+
+       W smaku po raz wtóry typowa, koncernowa słodowość, o goryczce i aromatach chmielowych można zapomnieć. Do tego dochodzi lekka metaliczność i pojawiająca się po ogrzaniu woń alkoholu (na szczęście w niezbyt dużym stężeniu).
+
+       Podsumowując, piwo da się wypić.
+     </Recenzja>
+   </PIWO>
+   <PIWO ID="4">
+     <Nazwa>Cornelius</Nazwa>
+     <Producent>Cornelius</Producent>
+     <Cena>4,40zł</Cena>
+      <Wystepowanie>
+        <verse xml:space="preserve">
+         <Sklep>Tesco</Sklep>
+        
+            <signature xml:space="default"></signature>
+     </verse>
+      </Wystepowanie>
+     <Recenzja>
+       Piłam piwo bananowe. Sam pomysł na łączenie piwa z bananem wydawał mi się ryzykowny a wręcz niesmaczny. Mimo to postanowiłam zaryzykować. No i co się okazało? To jest naprawdę dobre! Smakuje i pachnie jak sok kubuś bananowy z lekką nutą piwa w tle. Słodkie, lekkie,bardzo delikatne. Chętnie jeszcze raz kupię.
+       Jedyny minus to dość wysoka cena oraz trudna dostępność.
+     </Recenzja>
+   </PIWO>
+   <PIWO ID="5">
+     <Nazwa>Gingers</Nazwa>
+     <Producent>Gingers</Producent>
+     <Cena>3,29zł</Cena>
+     <Wystepowanie>
+       <verse xml:space="preserve">
+         <Sklep>Tesco,</Sklep>
+         <Sklep>Żak,</Sklep>
+         <Sklep>Lewiatan,</Sklep>
+         <Sklep>każdy monopolowy</Sklep>
+            <signature xml:space="default"></signature>
+     </verse>
+     </Wystepowanie>
+     <Recenzja>
+       Samo piwo Gingers ma dość interesujący smak, aczkolwiek na tle innych piw smakowych nie prezentuje się zbyt okazale. Podstawową wadą, według mnie, jest wyczuwalna pewna sztuczność smaku oraz zapachu. Owszem, czuje się pikantność, tak charakterystyczną dla imbiru, jednak nie można się pozbyć wrażenia, że ową pikantność nie zawdzięcza się naturalnemu imbirowi. W sumie, jak się popatrzy na skład, to nawet mamy potwierdzenie, że nie do końca jest to naturalny smak imbiru, a podstawę stanowi jakże szkodliwy dla zdrowia syrop glukozowo-fruktozowy. Trochę szkoda, ponieważ samo połączenie tych dwóch smaków, a więc piwnego oraz imbirowego mogłoby być naprawdę ciekawe.
+     </Recenzja>
+   </PIWO>
+</Piwa>

@@ -1,0 +1,112 @@
+﻿body {
+}
+
+#naglowek{
+     border-style:solid;
+    border-color:khaki;
+    border-width:1px;
+    color: khaki;
+    font-size: 2em;
+    text-align: center;
+    font-family: Calibri;
+    margin-left: 300px;
+    margin-right:300px;
+     
+}
+#zawartosc{
+    margin-top: 15px;
+
+
+}
+#zaw{
+    margin-top:10px;
+    
+}
+#zawartosc::after{
+    content:'';
+    display: block;
+    clear: both;
+}
+#menu{
+    border-style:solid;
+   border-color:khaki;
+    border-width:1px;
+    float: left;
+    width: 150px;
+    margin-left:300px;
+    padding: 5px;
+     
+  height: 500px;
+
+   
+   color: khaki;
+}
+
+#tresc{
+    border-style:solid;
+    border-color:khaki;
+    border-width:1px;
+    margin-left: 480px;
+    margin-right:300px;
+   height: 510px;
+
+   text-align: justify;
+   
+   font-size:large;
+   color:khaki;
+  
+}
+
+
+
+.menu ul li{
+    width: 120px;
+    margin: 5px;
+    display: block;
+}
+
+.menu a{
+    
+    color: khaki;
+    
+}
+
+.menu a:hover{
+   
+    color:Window;
+}
+
+.menu a.selected{
+    
+    font-weight: bold;
+}
+
+ol {
+  list-style-type:none;
+  padding:0;
+  margin:0;
+  font-size:18px;
+  height:2em;
+  line-height:2em;
+  text-align:center;
+ font-family:Calibri;
+}
+
+ol > li {
+  float:right;
+
+  width:200px;
+}
+
+ol a {
+  display:block;
+  color: khaki;
+  text-decoration: none;
+  font-weight: bold;
+  padding:0 5px;
+}
+
+ol > li > a:hover {
+  color: Window;
+}
+

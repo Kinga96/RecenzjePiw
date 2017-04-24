@@ -1,0 +1,26 @@
+﻿body {
+}
+
+#tresc{
+    text-align:center;
+    margin-top:250px;
+    margin-left:450px;
+    margin-right:450px;
+    color: azure;
+    font-size:x-large;
+    font-family: Calibri;
+    font-weight:bold;
+    border-style: solid;
+    border-color: azure;
+}
+
+.button{
+    background-color:black;
+    border-color:azure;
+    border-style:solid;
+    border-width:3px;
+    font-weight: bold;
+    font-size:medium;
+    font-family: Calibri;
+    color: azure;
+}

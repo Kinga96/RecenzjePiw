@@ -1,0 +1,40 @@
+﻿body {
+}
+
+#zaw{
+    color:khaki;
+    font-size:medium;
+    font-family: Calibri;
+    font-weight:bold;
+    margin-left:50px;
+}
+
+ol {
+  list-style-type:none;
+  padding:0;
+  margin:0;
+  font-size:18px;
+  height:2em;
+  line-height:2em;
+  text-align:center;
+ font-family: Calibri;
+}
+
+ol > li {
+  float:right;
+
+  width:200px;
+}
+
+ol a {
+  display:block;
+  color: khaki;
+  text-decoration: none;
+  font-weight: bold;
+  padding:0 5px;
+}
+
+ol > li > a:hover {
+  color: Window;
+}
+

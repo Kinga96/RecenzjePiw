@@ -1,0 +1,105 @@
+﻿body {
+}
+
+#strona{
+  
+   
+    text-align: center;
+}
+#gridview{
+    float: left;
+    margin-left: 40px;
+  margin-right: 249px;
+    margin-top: 72px;
+    height: 135px;
+    width: 1150px;
+    margin-top: 0px;
+}
+
+#naglowek{
+    font-weight: bold;
+    font-size: xx-large;
+    color:antiquewhite;
+}
+#detailsview {
+    margin-top: 70px;
+   
+
+}
+
+.GridView th{
+    font-family: Calibri;
+    color: antiquewhite;
+    width: 150px;
+    font-size: large;
+    background-color:black;
+   
+}
+
+.GridView tr{
+     color: antiquewhite;
+     
+    font-family: Calibri;
+}
+
+.details{
+    color:bisque;
+    font-family: Calibri;
+}
+
+.DetailsView tr{
+    color:antiquewhite;
+    text-align: left;
+    font-family: Calibri;
+  
+    border-style:solid;
+    border-color:grey;
+    border-width:1px;
+}
+
+.DVnaglowek {
+    color: burlywood;
+    
+    font-family: Calibri;
+}
+
+.DVnaglowek td{
+    height: 20px;
+    font-family: Calibri;
+}
+
+.GridView tr:hover{
+    color: blanchedalmond;
+    background-color: goldenrod;
+}
+
+
+ol {
+  list-style-type:none;
+  padding:0;
+  margin:0;
+  font-size:18px;
+  height:2.4em;
+  line-height:2em;
+  text-align:center;
+ font-family: Calibri;
+}
+
+ol > li {
+  float:right;
+
+  width:200px;
+}
+
+ol a {
+  display:block;
+  color: khaki;
+  text-decoration: none;
+  font-weight: bold;
+  padding:0 5px;
+}
+
+ol > li > a:hover {
+  color: Window;
+}
+
